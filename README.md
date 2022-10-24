@@ -1,5 +1,5 @@
 # JavaScript-Animations-
-Adding Animation To Website With Help Of JavaScript Library Known As GSAP Which is Industry Standard Library For Web Animation And It is Very Easy To Use
+Added Animation To Website With Help Of JavaScript Library Known As GSAP Which is Industry Standard Library For Web Animation And It is Very Easy To Use
 Following Are Some Projects I Have Made By Using This Library Which Where Very Much Easy To Make With Help Of Library
 
 1. Cookie Animation 
@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/104457295/197410091-bc4b6fc1-508a-4f05
 
 2. Text Animation
 
-https://user-images.githubusercontent.com/104457295/197577441-9419a0ba-c0ed-4fc4-8d22-c404ff528cc5.mp4
+https://user-images.githubusercontent.com/104457295/197616639-66d7e627-c192-4684-9ce0-9745ca3a94ec.mp4
 
 3. Form Animation
 
